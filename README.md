@@ -13,6 +13,8 @@ This repo contains the **bare minimum code** to have an auto-updating Electron a
 Clone the repo cd into project folder and execute these commands.
 
 ```
+nvm install v14
+nvm use v14
 npm install
 npm start
 ```
